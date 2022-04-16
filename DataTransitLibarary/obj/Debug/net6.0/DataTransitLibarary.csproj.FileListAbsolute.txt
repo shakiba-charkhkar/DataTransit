@@ -1,0 +1,14 @@
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\bin\Debug\net6.0\DataTransitLibarary.deps.json
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\bin\Debug\net6.0\DataTransitLibarary.runtimeconfig.json
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\bin\Debug\net6.0\DataTransitLibarary.dll
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\bin\Debug\net6.0\DataTransitLibarary.pdb
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\DataTransitLibarary.csproj.AssemblyReference.cache
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\DataTransitLibarary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\DataTransitLibarary.AssemblyInfoInputs.cache
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\DataTransitLibarary.AssemblyInfo.cs
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\DataTransitLibarary.csproj.CoreCompileInputs.cache
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\DataTransitLibarary.dll
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\refint\DataTransitLibarary.dll
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\DataTransitLibarary.pdb
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\DataTransitLibarary.genruntimeconfig.cache
+C:\Users\sh-charkhkar\source\repos\DataTransit\DataTransitLibarary\obj\Debug\net6.0\ref\DataTransitLibarary.dll

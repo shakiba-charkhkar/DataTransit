@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0M4Nvyx4BnAlw0Pe/NpAqVVffBcFqgf56rZqjVJfv8s=",
+  "Source": "RedisDataTransit",
+  "BasePath": "_content/RedisDataTransit",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
